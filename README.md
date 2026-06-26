@@ -1,19 +1,14 @@
-# tburguer
+# Greek Steak House
 
-## Project setup
-```
-npm install
-```
+Caio Augusto Montes da Cunha
+22509637
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Sistema de pedidos de churrasco grego adaptado do T-Burguer com Vue 3.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Campos: Nome, Tamanho, Pao, Carne, Molhos e Adicionais.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Alertas: Erro (vermelho), Aviso (laranja), Info (azul), Sucesso (verde).
+
+Producao: https://caioengsoftware.github.io/greek-steak-house/
+API: https://greek-steak-house-api.onrender.com
+Repositorio: https://github.com/caioengsoftware/greek-steak-house
